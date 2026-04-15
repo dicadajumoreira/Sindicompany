@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/dashboard/club-park-butanta"
+  to = "/dashboard/club-park-butanta/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/"
+  to = "/dashboard/club-park-butanta/index.html"
+  status = 200
